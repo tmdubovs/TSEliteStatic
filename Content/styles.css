@@ -1,0 +1,65 @@
+A { color: #FF9900; text-decoration: none; }
+A:active { color: #FF9900; }
+A:hover { color: #FF9900; text-decoration: underline; }
+A:visited { color: #FF9900; }
+
+A.dark { color: #666666; }
+A.dark:active { color: #666666; }
+A.dark:hover { color: #666666; }
+A.dark:visited { color: #666666; }
+
+A.pop { cursor: default; color: CECECE; }
+
+BODY {
+	font-family: Arial; 
+	font-size: 10pt; 
+	color: #CECECE;
+	
+	margin: 0 0 0 0;
+
+ 	scrollbar-face-color: #666666; 
+
+	scrollbar-highlight-color: #999999;
+	scrollbar-3dlight-color: #000000; 
+	scrollbar-shadow-color: #999999;
+	scrollbar-darkshadow-color: #000000;
+
+	scrollbar-base-color: #666666;
+	scrollbar-track-color: #333333;
+	scrollbar-arrow-color: #FFCC66;
+}
+TD { font-family: Arial; font-size: 10pt; color:#CECECE; }
+
+BR.xxsp { font-size: 2px; }
+BR.xsp { font-size: 3px; }
+BR.sp { font-size: 5px; }
+BR.lsp { font-size: 7px; }
+BR.llsp { font-size: 10px; }
+
+DIV.pop { position: absolute; visibility: hidden; }
+INPUT.login { color: #CECECE; font-size: 9px; background-color: #000000;	border: 1px solid #999999; }
+
+TABLE.border { border: #666666 1px solid; }
+TABLE.bg_normal_grid { background-color: #333333; background-image: url(images/bg_tbln_grid.jpg); border-bottom: #666666 1px solid; border-left: #666666 1px solid; border-right: #666666 1px solid; }
+TD.border { border-bottom: #666666 1px solid; }
+
+.bg_title { background-color: #666666; }
+.bg_title_200 { background-color: #666666; background-image: url(images/bg_tblt_200.jpg); }
+.bg_title_380 { background-color: #666666; background-image: url(images/bg_tblt_380.jpg); }
+.bg_title_580 { background-color: #666666; background-image: url(images/bg_tblt_580.jpg); }
+.bg_title_732 { background-color: #666666; background-image: url(images/bg_tblt_732.jpg); } 
+.bg_normal { background-color: #333333; }
+.bg_normal_grid { background-color: #333333; background-image: url(images/bg_tbln_grid.jpg); }
+
+.highlight { color: #FFCC66; }
+
+.link_menu { font-size: 9pt }
+.link_menu:active { font-size: 9pt }
+.link_menu:hover { font-size: 9pt }
+.link_menu:visited { font-size: 9pt }
+
+.little { font-size: 8pt; }
+.xlittle { font-size: 9px; }
+
+.td_bottom { font-size: 8pt; color: #CCCCCC; }
+.td_title { font-size: 11pt; color: #FFCC66; font-weight:bold; font-family: arial; }

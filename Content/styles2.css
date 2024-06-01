@@ -1,0 +1,33 @@
+A.level_back { color: #000000; font-size: 9px; }
+A.level_back:active { color: #000000; font-size: 9px; }
+A.level_back:hover { color: #000000; font-size: 9px; }
+A.level_back:visited { color: #000000; font-size: 9px; }
+A.link_level { font-size: 11px; color: #0099FF; text-decoration: none }
+A.link_level:active { font-size: 11px; color: #0099FF }
+A.link_level:hover { font-size: 11px; color: #0099FF; text-decoration: underline }
+A.link_level:visited { font-size: 11px; color: #0099FF }
+A.link_td_head { font-size: 10px; color: #BBBBBB; text-decoration: underline; }
+A.link_td_head:active { font-size: 10px; color: #BBBBBB; }
+A.link_td_head:hover { font-size: 10px; color: #BBBBBB; text-decoration: none; }
+A.link_td_head:visited { font-size: 10px; color: #BBBBBB; }
+
+TR.bg:hover { background-color: #666666; }
+
+.group_table { background-image: url(images/bg.jpg); } 
+.group_title { font-size: 20px; color: #FFCC66; width:750; background-color: #666666; background-image: url(images/bg.jpg); font-weight: bold; }
+
+.n { cursor: hand; }
+.nick_record { color: #999999; font-size: 11px }
+.points_color { color: #FFFF99 }
+
+.rank { font-size: 13px; font-weight: bold; }
+.rank_suffix { vertical-align: top; font-size: 9px; }
+.ranking_name { font-size: 20px; color: #FFCC66; width:750; background-color: #666666; background-image: url(images/bg.jpg); font-weight: bold; }
+
+.td { font-size: 12px; }
+.td_fix { font-size: 12px; text-align: center; }
+.td_head { font-size: 10px; color: #999999; }
+.td_pts { font-size: 12px; color: #FFFF99; text-align: right; }
+.td_titlenames { font-size: 12px; font-weight: bold; }
+.td_update { font-size: 10px; text-align: center; }
+.td_wr { font-size: 11px; }
